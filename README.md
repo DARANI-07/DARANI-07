@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Versatile Full Stack Developer skilled in building scalable web applications from front-end to back-end.
+Building bold, brilliant, and blazing-fast web experiences — Full Stack Developer mastering both code and creativity.
 
 
 ## 🌐 Socials:
